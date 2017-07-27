@@ -1,0 +1,21 @@
+{
+    "name": "orezomi/wmk",
+    "description": "Yii2 Extension for pinterest like layout using Wookmark Jquery Plugin",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "orezomi",
+            "email": "harismoaji@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "orezomi\\wmk\\": ""
+        }
+    }
+}
