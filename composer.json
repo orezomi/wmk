@@ -12,7 +12,8 @@
     ],
     "require": {
         "yiisoft/yii2": "*",
-        "bower-asset/Wookmark-jQuery" : "*"
+        "bower-asset/Wookmark-jQuery" : "*",
+        "bower-asset/imagesloaded" : "*"
     },
     "autoload": {
         "psr-4": {
